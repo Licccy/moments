@@ -1,7 +1,6 @@
 ## 项目说明
 
 - 完成6个任务，实现一个基本微信朋友圈的界面
-file:///D:/project-Next/p4/moments.html
 
 ### 项目结构
 
